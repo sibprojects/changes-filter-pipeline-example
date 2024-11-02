@@ -1,2 +1,2 @@
-# changes-filter-pipeline-example
+# modification-filter-pipeline-example
 Pipeline pattern example
